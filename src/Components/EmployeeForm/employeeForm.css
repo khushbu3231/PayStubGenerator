@@ -1,0 +1,17 @@
+.formContainer{
+    width: 90%;
+    height: 90%; 
+     margin-top: 15px;
+   /* margin-left: 100px;  
+    margin-right: 50px;   */
+    /* margin: 15px 100px 0 50px;  */
+    margin-right: 80px;
+    text-align: left;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 2%;
+    font-weight: 500;
+}
+.vehicleCheckbox{
+    margin-top: 15px;
+}

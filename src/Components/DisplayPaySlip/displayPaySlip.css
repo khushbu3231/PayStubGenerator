@@ -1,0 +1,23 @@
+.displayPaySlip{
+    width: 90%;
+    height: 97%;
+    /* height: 580px; */
+    /* margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 250px; */
+    margin-top: 15px;
+    text-align: left;
+    background-color: #f4f4f4;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 2%;
+    font-weight: 500;
+}
+
+.Display_Heading{
+   text-align: center;
+  padding: 5px;
+}
+.Net_Salary{
+    font-weight: 700;
+}
