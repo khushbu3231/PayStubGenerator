@@ -1,6 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Patel
-Project
 Hi my name is Khushbu.
 ## Available Scripts
 
